@@ -613,7 +613,6 @@ print("Sorted Array:", selection_sort(arr))
 
 
 
-
 # PRACTICAL NO.: 09
 Aim : Sorting Algorithm Performance Comparison:
        1. Merge Sort 
